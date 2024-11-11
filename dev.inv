@@ -1,2 +1,2 @@
 [dev]
-192.168.56.10 ansible_user=vagrant
+10.0.3.252 ansible_user=ubuntu
