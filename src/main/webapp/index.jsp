@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2 stype="colour: red">This application works well</h2>
+<h2 stype="colour: red">Cool demo project</h2>
 </body>
 </html>
